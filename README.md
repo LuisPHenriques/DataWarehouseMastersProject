@@ -5,6 +5,7 @@ Faculdade de Engenharia da Universidade do Porto
 
 [Cátia Teixeira](https://github.com/crdsteixeira) | [Rojan Aslani](https://github.com/RojanAsl) | [Miguel Veloso](https://github.com/cmiguelsv) | [Luís Henriques](https://github.com/LuisPHenriques)
 
+![Header](./Data_Warehouse_Architecture_Design.png.webp)
 
 A data warehouse, an infrastructure to store data, was created with 2 stars - information from several tables combined into two tables with different purposes - and a sales cube - aggregated sales by month or customer segment given frequent queries made -, to store data from an online retail store. This data was retrieved from Kaggle.
 
