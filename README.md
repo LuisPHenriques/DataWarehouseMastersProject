@@ -1,4 +1,4 @@
-# Data Warehouse Project
+# Data Warehouse for Online Retail store
 
 Masters in Data Science and Engineering  
 Faculdade de Engenharia da Universidade do Porto
