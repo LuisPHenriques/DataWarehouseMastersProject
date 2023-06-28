@@ -5,6 +5,11 @@ Faculdade de Engenharia da Universidade do Porto
 
 [Cátia Teixeira](https://github.com/crdsteixeira) | [Rojan Aslani](https://github.com/RojanAsl) | [Miguel Veloso](https://github.com/cmiguelsv) | [Luís Henriques](https://github.com/LuisPHenriques)
 
+## Implementation
+
+This was built using PostgreSQL, pgAdmin 4, Pentaho PDI, and PowerBI, in order to create a data warehouse from scratch, considering the dataset chosen.
+
+
 ## Steps involved
 
 * Setup
