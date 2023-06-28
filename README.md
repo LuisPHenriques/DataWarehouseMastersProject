@@ -8,10 +8,10 @@ Faculdade de Engenharia da Universidade do Porto
 ## Steps involved
 
 * Setup
-** The Data Warehouse was implemented using PostgreSQL.
-** The ETL was developed using Pentaho PDI.  
-** The mondrian schema was done using Penatho Shema Workbench.  
-** The dashboards required the use of Microsoft Power BI.
+  1. The Data Warehouse was implemented using PostgreSQL.
+  2. The ETL was developed using Pentaho PDI.  
+  3. The mondrian schema was done using Penatho Shema Workbench.  
+  4. The dashboards required the use of Microsoft Power BI.
 
 ## Run ETL Instructions 
 
